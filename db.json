@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Lavar as Roupas",
+      "done": true
+    },
+    {
+      "text": "Almoçar",
+      "done": false,
+      "id": 2
+    }
+  ]
+}
